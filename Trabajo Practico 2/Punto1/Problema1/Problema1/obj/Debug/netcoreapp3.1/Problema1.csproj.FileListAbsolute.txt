@@ -1,0 +1,13 @@
+C:\Users\Miguel\Desktop\TP2 Taller 2\Problema1\Problema1\bin\Debug\netcoreapp3.1\Problema1.exe
+C:\Users\Miguel\Desktop\TP2 Taller 2\Problema1\Problema1\bin\Debug\netcoreapp3.1\Problema1.deps.json
+C:\Users\Miguel\Desktop\TP2 Taller 2\Problema1\Problema1\bin\Debug\netcoreapp3.1\Problema1.runtimeconfig.json
+C:\Users\Miguel\Desktop\TP2 Taller 2\Problema1\Problema1\bin\Debug\netcoreapp3.1\Problema1.runtimeconfig.dev.json
+C:\Users\Miguel\Desktop\TP2 Taller 2\Problema1\Problema1\bin\Debug\netcoreapp3.1\Problema1.dll
+C:\Users\Miguel\Desktop\TP2 Taller 2\Problema1\Problema1\bin\Debug\netcoreapp3.1\Problema1.pdb
+C:\Users\Miguel\Desktop\TP2 Taller 2\Problema1\Problema1\obj\Debug\netcoreapp3.1\Problema1.csprojAssemblyReference.cache
+C:\Users\Miguel\Desktop\TP2 Taller 2\Problema1\Problema1\obj\Debug\netcoreapp3.1\Problema1.AssemblyInfoInputs.cache
+C:\Users\Miguel\Desktop\TP2 Taller 2\Problema1\Problema1\obj\Debug\netcoreapp3.1\Problema1.AssemblyInfo.cs
+C:\Users\Miguel\Desktop\TP2 Taller 2\Problema1\Problema1\obj\Debug\netcoreapp3.1\Problema1.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\Desktop\TP2 Taller 2\Problema1\Problema1\obj\Debug\netcoreapp3.1\Problema1.dll
+C:\Users\Miguel\Desktop\TP2 Taller 2\Problema1\Problema1\obj\Debug\netcoreapp3.1\Problema1.pdb
+C:\Users\Miguel\Desktop\TP2 Taller 2\Problema1\Problema1\obj\Debug\netcoreapp3.1\Problema1.genruntimeconfig.cache
